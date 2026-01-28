@@ -13,7 +13,7 @@ public class HelloWorld {
         
         // Simple loop
         System.out.println("\nNumbers from 1 to 5:");
-        for (int i = 1; i <= 5; i++) {
+        for (int i = 1; i <=git commit -"" 5; i++) {
             System.out.println(i);
         }
     }
